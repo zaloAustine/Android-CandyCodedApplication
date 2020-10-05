@@ -40,7 +40,7 @@ public class InfoActivity extends AppCompatActivity {
             startActivity(mapIntent);
         }
 
-        startActivity(mapIntent);
+
 
 
     }
